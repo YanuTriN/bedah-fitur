@@ -1,3 +1,7 @@
-Login
-Navbar
-Video Header
+Halaman Public
+- Navbar
+- Video Header
+
+Halaman Private
+- Login
+- Sidebar
